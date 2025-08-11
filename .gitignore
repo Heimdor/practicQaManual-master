@@ -1,0 +1,17 @@
+.DS_Store
+.thumbs.db
+node_modules
+
+.QA_BUGS_LIST.md
+
+/src-capacitor/www
+/src-capacitor/node_modules
+/dist
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# local .env files
+.env.local*
