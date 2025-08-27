@@ -1,40 +1,10 @@
-# Quasar App (practicqamanual)
+# QA Test Shop
 
-A Quasar Project
+Этот проект создан специально для проверки навыков ручных тестировщиков. В приложение намеренно внесены различные типы багов для их обнаружения и документирования кандидатами.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Общая информация о проекте
+Приложение: QA Test Shop - интернет-магазин с функцией бронирования отелей
+Технологии: Vue.js 3, Quasar Framework, Pinia
+Тип приложения: SPA (Single Page Application)
 
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
